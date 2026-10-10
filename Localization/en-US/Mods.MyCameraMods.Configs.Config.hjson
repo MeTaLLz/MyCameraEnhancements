@@ -1,0 +1,68 @@
+DisplayName: MyCM Configuration
+
+Headers: {
+	General: "[i:1344] General"
+	Shake: "[i:3084] Shake"
+	MouseOffset: "[i:5075] Mouse Offset"
+	DynamicOffset: "[i:54] Dynamic Offset"
+}
+
+EnableOffset: {
+	Label: Enable Offset
+	Tooltip: ""
+}
+
+Smoothness: {
+	Label: Camera Smoothness
+	Tooltip: ""
+}
+
+EnableShake: {
+	Label: Enable Shake
+	Tooltip: ""
+}
+
+ShakeStrength: {
+	Label: Shake Strength
+	Tooltip: ""
+}
+
+EnableMouse: {
+	Label: Enable Mouse Offset
+	Tooltip: ""
+}
+
+MouseStrength: {
+	Label: Mouse Strength
+	Tooltip: ""
+}
+
+EnableDynamic: {
+	Label: Enable Dynamic Offset
+	Tooltip: ""
+}
+
+HorizontalFactor: {
+	Label: Horizontal Factor
+	Tooltip: ""
+}
+
+VerticalFactor: {
+	Label: Vertical Factor
+	Tooltip: ""
+}
+
+RequiredXSpeed: {
+	Label: Required X Speed
+	Tooltip: ""
+}
+
+RequiredYSpeed: {
+	Label: Required Y Speed
+	Tooltip: ""
+}
+
+DynamicSmoothness: {
+	Label: Dynamic Smoothness
+	Tooltip: ""
+}
